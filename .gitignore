@@ -1,0 +1,19 @@
+# Dependencias de Node (Frontend)
+node_modules/
+dist/
+.env
+
+# Compilados de Java (Backend)
+target/
+*.class
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE (IntelliJ / VSCode)
+.idea/
+*.iml
+.vscode/
+*.iws
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
